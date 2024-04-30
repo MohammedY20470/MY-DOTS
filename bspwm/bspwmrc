@@ -2,7 +2,7 @@
 sxhkd & 
 ~/.config/polybar/launch.sh &
 picom &
-sudo powertop --auto-tune &
+
 bspc monitor -d term none web none web2 fs fun music sett none 
 
 bspc config border_width         3
