@@ -27,8 +27,7 @@ XF86AudioLowerVolume
 	amixer set Master 5%-
 # terminal emulator
 super + Return
-	kitty
-
+  alacritty
 # program launcher
 super + @space
 	dmenu_run

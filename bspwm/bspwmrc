@@ -1,7 +1,7 @@
 #! /bin/bash
 sxhkd & 
 ~/.config/polybar/launch.sh &
-picom &
+#picom &
 
 bspc monitor -d term none web none web2 fs fun music sett none 
 
